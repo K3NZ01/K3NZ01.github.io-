@@ -10,4 +10,4 @@ Projects: My current project is updating my GitHub to tell the story of how I fo
 
 Field of interest: I am interested in identity and access management, social engineering. 
 
-For fun: I enjoy spending time with my parents  and 3 brothers, watching documentaries (my favorite being those that talk about how technology is changing the way we operate), and traveling. 
+For fun: I enjoy spending time with my family, watching documentaries (my favorite being those that talk about how technology is changing how we live and connect), and traveling. 
