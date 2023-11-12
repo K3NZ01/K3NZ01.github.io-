@@ -1,3 +1,5 @@
+BIO: 
+
 Education: I began my studies at the United States Military Academy at West Point for three years, transferred to George Washington University where I graduated with a degree in International Affairs concentrating in Security Policy. I then completed a 3 month cybersecurity bootcamp for military veterans, obtaining the Security+, CEH, and Splunk Core Certified User certifications.
 
 Professional Experience: I worked as an account manager at MUFG Bank, a Japanese International Bank, for one year. As an account manager I engaged with clients to understand customers’ needs, handled sensitive customer and bank documents, and maintained client relationships.
